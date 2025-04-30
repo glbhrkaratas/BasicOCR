@@ -22,17 +22,17 @@ Projenin çalışabilmesi için aşağıdaki Python kütüphanelerine ihtiyaç v
 
 
 - Sanal ortamı etkinleştirin:
-`Windows: .venv\Scripts\activate
-Linux/Mac: source .venv/bin/activate
+- Windows: .venv\Scripts\activate
+- Linux/Mac: source .venv/bin/activate
 
 
 - Gerekli kütüphaneleri yükleyin:pip install -r requirements.txt
 
 
 - Tesseract'ı bilgisayarınıza kurun:
-Windows: https://github.com/UB-Mannheim/tesseract/wiki
-Linux: sudo apt-get install tesseract-ocr
-Mac: brew install tesseract`
+- Windows: https://github.com/UB-Mannheim/tesseract/wiki
+- Linux: sudo apt-get install tesseract-ocr
+- Mac: brew install tesseract`
 
 
 
