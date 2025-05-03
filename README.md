@@ -32,7 +32,7 @@ Projenin çalışabilmesi için aşağıdaki Python kütüphanelerine ihtiyaç v
 - Tesseract'ı bilgisayarınıza kurun:`
 - Windows: https://github.com/UB-Mannheim/tesseract/wiki
 - Linux: `sudo apt-get install tesseract-ocr`
-- Mac: ``brew install tesseract```
+- Mac: `brew install tesseract`
 
 
 
