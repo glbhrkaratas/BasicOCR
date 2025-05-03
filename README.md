@@ -22,8 +22,8 @@ Projenin çalışabilmesi için aşağıdaki Python kütüphanelerine ihtiyaç v
 
 
 - Sanal ortamı etkinleştirin:
-- `Windows: .venv\Scripts\activate
-- `Linux/Mac: `source .venv/bin/activate`
+- Windows: `.venv\Scripts\activate`
+- Linux/Mac: `source .venv/bin/activate`
 
 
 - Gerekli kütüphaneleri yükleyin:pip install -r requirements.txt
