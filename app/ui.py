@@ -20,6 +20,8 @@ class OCRApp:
             "Tek Dil (Almanca)": "deu",
             "Tek Dil (Fransızca)": "fra",
             "Tek Dil (İspanyolca)": "spa",
+            "Tek Dil (Rusça)": "rus",
+            "Tek Dil (Arapça)": "ara",
             "Çoklu Dil (İngilizce + Türkçe)": "eng+tur",
             "Çoklu Dil (İngilizce + Almanca + Fransızca)": "eng+deu+fra"
         }
