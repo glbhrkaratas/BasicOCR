@@ -23,30 +23,16 @@ Projenin çalışabilmesi için aşağıdaki Python kütüphanelerine ihtiyaç v
 
 - Sanal ortamı etkinleştirin:
 `Windows: .venv\Scripts\activate
-`Linux/Mac: source .venv/bin/activate
+`Linux/Mac: `source .venv/bin/activate`
 
 
 - Gerekli kütüphaneleri yükleyin:pip install -r requirements.txt
 
 
 - Tesseract'ı bilgisayarınıza kurun:`
-Windows: https://github.com/UB-Mannheim/tesseract/wiki
-Linux: sudo apt-get install tesseract-ocr
-Mac: brew install tesseract`
+- Windows: https://github.com/UB-Mannheim/tesseract/wiki
+- Linux: `sudo apt-get install tesseract-ocr`
+- Mac: ``brew install tesseract```
 
 
-
-## Kullanım
-
-- input klasörüne bir görüntü dosyası koyun (örneğin sample_image.png).
-  main.py dosyasını çalıştırın:python main.py
-
-
-- Çıkarılan metin ekrana yazdırılacak ve output/extracted_text.txt dosyasına kaydedilecektir.
-
-## Proje Yapısı
-
-- input/: Görüntü dosyalarını buraya koyun.
-- output/: Çıkarılan metinler buraya kaydedilir.
-- main.py: Tüm OCR işlemlerini yapan ana dosya.
 
